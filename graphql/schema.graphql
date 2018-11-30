@@ -15,6 +15,7 @@ type Movie {
     yt_trailer_code: String
     background_image: String
     medium_cover_image: String
+    small_cover_image: String
 }
 
 type Query{
